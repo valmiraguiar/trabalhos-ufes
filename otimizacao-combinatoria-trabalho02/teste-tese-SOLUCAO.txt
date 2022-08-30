@@ -1,0 +1,5 @@
+Maquina 0: 0 1 
+Maquina 1: 2 3 
+Maquina 2: 7 5 
+Maquina 3: 6 8 4 
+Custo: 14

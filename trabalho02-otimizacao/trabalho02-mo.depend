@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1659917023 source:c:\users\valmir aguiar\documents\ufes\metodos-otimizacao\trabalho02\impl\trabalho02-mo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	"trabalho02-mo.h"
+	<fstream>
+	<string.h>
+	<time.h>
+	<memory.h>
+
+1659911198 c:\users\valmir aguiar\documents\ufes\metodos-otimizacao\trabalho02\impl\trabalho02-mo\trabalho02-mo.h
+	<string>
+

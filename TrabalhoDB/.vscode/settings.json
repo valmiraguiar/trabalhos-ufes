@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Trabalho_UBS",
+            "database": "ubs",
+            "username": "trabalho_db_ubs",
+            "password": "trabalho_db_ubs"
+        }
+    ]
+}

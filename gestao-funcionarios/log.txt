@@ -1,0 +1,28 @@
+10-06-2022 14:50:08 Funcionário: Valmir Aguiar [Adicionado].
+10-06-2022 14:50:28 Funcionário: Andrico [Adicionado].
+10-06-2022 14:50:44 Funcionário: Mário [Adicionado].
+10-06-2022 14:50:48 Bônus consultado de: Mário.
+10-06-2022 14:51:54Falha ao realizar operação de: Busca Exceção: 10-06-2022 14:51:59 Bônus consultado de: Andrico.
+10-06-2022 14:52:12 Salário calculado para o(s) funcionário(s): [
+	Andrico
+	Mário
+	Valmir Aguiar
+]
+10-06-2022 14:52:27 Bônus consultado de: Andrico.
+10-06-2022 14:52:38 Funcionário: Andrico [Visualizado].
+10-06-2022 14:52:41 Funcionário: Andrico [Excluido].
+10-06-2022 14:55:40Falha ao realizar operação de: Adição de funcionário Exceção: 10-06-2022 14:57:38 Funcionário: Valmir Aguiar [Adicionado].
+10-06-2022 14:58:53 Funcionário: Valmir Aguiar [Adicionado].
+10-06-2022 14:58:58 Bônus consultado de: Valmir Aguiar.
+10-06-2022 14:59:03 Funcionário: Valmir Aguiar [Visualizado].
+10-06-2022 14:59:06 Funcionário: Valmir Aguiar [Editado].
+10-06-2022 18:24:44 Funcionário: Valmir [Adicionado].
+10-06-2022 18:25:05 Funcionário: Mario [Adicionado].
+10-06-2022 18:25:24 Funcionário: Andrico [Adicionado].
+10-06-2022 18:25:40 Bônus consultado de: Valmir.
+10-06-2022 18:25:55 Salário calculado para o(s) funcionário(s): [
+	Andrico
+	Mario
+	Valmir
+]
+10-06-2022 18:26:12 Bônus consultado de: Mario.

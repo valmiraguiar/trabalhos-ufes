@@ -1,0 +1,12 @@
++++++++++ MATRIZ ADJ +++++++++
+
+TEMPO USANDO MATRIZ ADJ -> 0,043000
+DIAMETRO MATRIZ ADJ -> 2
+=========================================
+
++++++++++ LISTA ADJ +++++++++
+
+TEMPO USANDO LISTA ADJ -> 0,065000
+DIAMETRO LISTA ADJ -> 2
+=========================================
+

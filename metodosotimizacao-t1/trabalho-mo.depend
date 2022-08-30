@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1656282687 source:c:\users\valmir aguiar\documents\ufes\metodos-otimizacao\trabalho01\impl\trabalho-mo\pmm.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	"pmm.hpp"
+	<fstream>
+	<string.h>
+	<time.h>
+
+1656280820 c:\users\valmir aguiar\documents\ufes\metodos-otimizacao\trabalho01\impl\trabalho-mo\pmm.hpp
+	<string>
+
